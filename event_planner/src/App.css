@@ -1,0 +1,131 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+/* .carousel-item {
+  width: 640px;
+  height: 360px;
+}
+.carousel-size {
+  text-align: center;
+} */
+/* .body-html-index {
+  background-color: rgb(52, 50, 50);
+} */
+/* .main-title {
+  text-align: center;
+  color: #B2C100;
+  padding-bottom: 20px;
+  font-family: 'Qwigley', cursive;
+  font-size: 125px;
+} */
+.container {
+  padding-top: 60px;
+}
+.card-deck {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  float: left;
+  /* background-color: black; */
+}
+.column-posts {
+  max-height: 40%;
+}
+.navbar-main {
+  background-image: linear-gradient(to bottom,rgb(122, 122, 122) 0, rgb(41, 37, 37) 100%) !important; 
+}
+.link{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 16px;
+}
+.jumbotron {
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px; 
+}
+.home-image {
+  display: block stretch;
+  margin-left: 0%;
+  margin-right: 0%;
+  width: 100%;
+  margin-top: 0px;
+  padding: 0px;
+}
+.delete-btn{
+  margin-right: 10px;
+}
+
+.submit-btn {
+  margin-right: 10px;
+}
+.center-comments-form {
+  margin-left: 30px;
+}
+.edit-comment-btn {
+  margin-right: 10px;
+}
+.edit-post-btn {
+  margin-right: 10px;
+}
+.comment-h3 {
+  text-align: center;
+}
+.container-jumbo {
+  text-align: left;
+}
+.h1-jumbo {
+  text-align: center;
+  font-family: 'News Cycle', sans-serif;
+}
+.checkbox-robot {
+  font-family: 'Courier New', Courier, monospace;
+}
+.event-info {
+  float: right;
+}
+.event-info-main {
+  margin: 2px;
+}
+/* .blog-title {
+  float: right;
+} */
+.event-main {
+  margin: 0px 30px;
+  margin-top: 25px;
+  float: left;
+  display: block;
+  width: 1610px;
+  height:127px;
+  background-color: grey;
+  border-radius: 2px;
+}
+.event-img {
+  float: left;
+  width: 125px;
+  height: 127px;
+}
